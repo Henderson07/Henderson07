@@ -8,16 +8,18 @@
 
 ## 💼 Sobre mim
 
-Sou um desenvolvedor full stack apaixonado por resolver problemas e criar soluções eficientes em sistemas ERP. Tenho experiência prática com **PHP (Laravel)**, **C# (.NET)**, **JavaScript**, **MySQL**, **Docker**, além de aplicar boas práticas como **SOLID** e **Clean Code** em meus projetos.
+Sou desenvolvedor Full Stack com foco no desenvolvimento de sistemas ERP web, atuando tanto no backend quanto no frontend. Tenho experiência consolidada em PHP (Laravel), C# (.NET), JavaScript, MySQL e Docker, aplicando práticas de Clean Code, princípios SOLID e versionamento com Git.
 
-Atualmente trabalho na **Infinit Soluções** como Full Stack Developer, atuando no desenvolvimento, manutenção e otimização de sistemas ERP Web.
+No ambiente corporativo, contribuo para a implementação de funcionalidades, manutenção de código legado, análise de falhas e melhorias contínuas nos processos. Tenho familiaridade com estrutura MVC e testes automatizados.
+
+Busco constantemente aprimorar minhas habilidades técnicas e oferecer soluções robustas, seguras e escaláveis da forma mais abstrata possível para os sistemas que desenvolvo.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 - 💻 PHP (Laravel), C#, .NET, JavaScript (jQuery, Blade)
-- 🛢️ MySQL, PostgreSQL
+- 🛢️ MySQL
 - 🐳 Docker
 - 🧪 PHPUnit, Testes Unitários
 - 🔄 Git, GitHub
@@ -49,12 +51,6 @@ Atualmente trabalho na **Infinit Soluções** como Full Stack Developer, atuando
 
 ---
 
-## 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/-Henderson%20Camilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henderson-camilo-gomes-da-silva-5468a1211/)](https://www.linkedin.com/in/henderson-camilo-gomes-da-silva-5468a1211/)
-[![GitHub](https://img.shields.io/badge/-Henderson07-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Henderson07)](https://github.com/Henderson07)
-
----
 
 ## 📊 GitHub Stats
 
@@ -64,9 +60,3 @@ Atualmente trabalho na **Infinit Soluções** como Full Stack Developer, atuando
 </p>
 
 ---
-
-## ✅ Em constante evolução
-
-> "A melhor forma de prever o futuro é construí-lo." – Alan Kay  
-> Estou sempre estudando, praticando e contribuindo para me tornar um desenvolvedor melhor todos os dias.
-
